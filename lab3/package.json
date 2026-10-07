@@ -1,0 +1,16 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "COMP3123 Lab 3 - NodeJs HTTP Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "http",
+    "comp3123"
+  ],
+  "author": "Luna Ortega",
+  "license": "ISC"
+}

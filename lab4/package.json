@@ -1,0 +1,24 @@
+{
+  "name": "101477171_COMP3123-exec04",
+  "version": "1.0.0",
+  "description": "COMP3123 Exercise 04 - Express JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "GET params vs query",
+    "node vs nodemon",
+    "static files"
+  ],
+  "author": "Luna Ortega",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
