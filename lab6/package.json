@@ -1,0 +1,27 @@
+{
+  "name": "101477171_comp3123-exec06",
+  "version": "1.0.0",
+  "description": "COMP3123 Lab 6 - Note taking application with Express and MongoDB Atlas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lunitaa2/comp3123.git"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "mongodb",
+    "notes",
+    "comp3123"
+  ],
+  "author": "Luna Ortega",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1"
+  }
+}
